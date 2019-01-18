@@ -1,0 +1,29 @@
+[httpserver]
+IP = "0.0.0.0"
+Port = 8080
+
+[log]
+level = "debug"
+name = "log/app"
+frame = "log/frame"
+mode = 1
+
+
+
+[database]
+Dialect = "mysql"
+Database = "db_modcall"
+User = "db_modcall"
+Password = "722aaab50"
+Charset = "utf8"
+SQLLog = false
+Host = "m3466.db_modcall.cdb.com"
+IP = "127.0.0.1"
+Port = 3466
+MaxIdleConns = 5
+MaxOpenConns = 10
+
+[redis]
+Host = "sz9486.mcall.redis.com"
+IP = "127.0.0.1"
+Port = 6379
