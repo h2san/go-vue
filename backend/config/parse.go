@@ -33,9 +33,6 @@ func GetConfig() *Config {
 		log.SetOutput(logWriter)
 		config.Log.Writer = logWriter
 
-		
-
-
 		//start profile
 		if config.Profile.CPU != "" {
 			go func() {

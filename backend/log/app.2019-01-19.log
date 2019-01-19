@@ -1,0 +1,62 @@
+2019/01/19 19:30:45 key is of invalid type
+2019/01/19 19:30:53 key is of invalid type
+2019/01/19 19:31:41 key is of invalid type
+2019/01/19 19:31:41 
+2019/01/19 19:32:28 key is of invalid type
+2019/01/19 19:32:28 
+2019/01/19 19:33:56 key is of invalid type
+2019/01/19 19:33:56 
+2019/01/19 19:35:15 key is of invalid type
+2019/01/19 19:35:15 
+2019/01/19 19:38:23 &{ 0xc0001a42e0 map[typ:JWT alg:HS256] 0xc00018c0c0  false}
+2019/01/19 19:38:23 key is of invalid type
+2019/01/19 19:38:23 
+2019/01/19 19:39:58 &{Raw: Method:0xc0001ae2c0 Header:map[typ:JWT alg:HS256] Claims:0xc00019e080 Signature: Valid:false}
+2019/01/19 19:39:58 key is of invalid type
+2019/01/19 19:39:58 
+2019/01/19 19:41:46 &{Raw: Method:0xc000152320 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 19:41:46 &{Raw: Method:0xc000152320 Header:map[typ:JWT alg:HS256] Claims:0xc0001f2040 Signature: Valid:false}
+2019/01/19 19:41:46 key is of invalid type
+2019/01/19 19:41:46 
+2019/01/19 19:46:39 &{Raw: Method:0xc0001b62a0 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 19:46:39 &{Raw: Method:0xc0001b62a0 Header:map[typ:JWT alg:HS256] Claims:0xc0001a60a0 Signature: Valid:false}
+2019/01/19 19:46:39 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTg0NTl9.1dJm6DLRm-rSrc_zu9zjOnmSVwzdmxa9eM0OTTWX1qU
+2019/01/19 19:55:49 &{Raw: Method:0xc000180340 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 19:55:49 &{Raw: Method:0xc000180340 Header:map[typ:JWT alg:HS256] Claims:0xc000004220 Signature: Valid:false}
+2019/01/19 19:55:49 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTkwMDl9.LTjQuckFWG6mB1p6IZFXjvzOi1stTpPk92DcTBlfG4o
+2019/01/19 19:58:33 &{Raw: Method:0xc000180340 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 19:58:33 &{Raw: Method:0xc000180340 Header:map[typ:JWT alg:HS256] Claims:0xc000004420 Signature: Valid:false}
+2019/01/19 19:58:33 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTkxNzN9.odt5iHBHyymK-gHAgOln0uIR4M8Rac4srSAnrsT_Gng
+2019/01/19 20:01:28 &{Raw: Method:0xc000180340 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 20:01:28 &{Raw: Method:0xc000180340 Header:map[typ:JWT alg:HS256] Claims:0xc0002422e0 Signature: Valid:false}
+2019/01/19 20:01:28 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTkzNDh9.ifhcaDtkncQjuERpifRhYwzfmzR5T-W18M7AooS5IMk
+2019/01/19 20:04:27 &{Raw: Method:0xc000060660 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 20:04:27 &{Raw: Method:0xc000060660 Header:map[typ:JWT alg:HS256] Claims:0xc000004100 Signature: Valid:false}
+2019/01/19 20:04:27 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTk1Mjd9.4aV4noS0i39Svyrl7wrBrFqVTub-pSmSBYBfmJ61MTI
+2019/01/19 20:07:09 &{Raw: Method:0xc000060640 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 20:07:09 &{Raw: Method:0xc000060640 Header:map[typ:JWT alg:HS256] Claims:0xc0001761a0 Signature: Valid:false}
+2019/01/19 20:07:09 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTk2ODl9.3j-qkS4Z-r4whxnvS8T9keyXp7U7CtZCd7dFG-8KL4k
+2019/01/19 20:07:27 <nil>
+2019/01/19 20:09:02 &{Raw: Method:0xc000004680 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 20:09:02 &{Raw: Method:0xc000004680 Header:map[typ:JWT alg:HS256] Claims:0xc00017a0e0 Signature: Valid:false}
+2019/01/19 20:09:02 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc4OTk4MDJ9.ee-Xzn6Ew1mRO0m7-0octaZnM1Z_EjMJOp1g217u_SY
+2019/01/19 20:09:13 <nil>
+2019/01/19 20:13:28 &{Raw: Method:0xc0000046e0 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 20:13:28 &{Raw: Method:0xc0000046e0 Header:map[typ:JWT alg:HS256] Claims:0xc000199620 Signature: Valid:false}
+2019/01/19 20:13:28 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDAwNjh9.foUKJIDLDxDl18Yg8TbDksMpsOe8gGwAzZ8lBBjlxAs
+2019/01/19 20:13:43 {0xc0001b68a0 <nil>}
+2019/01/19 20:14:56 &{Raw: Method:0xc000004680 Header:map[typ:JWT alg:HS256] Claims:map[] Signature: Valid:false}
+2019/01/19 20:14:56 &{Raw: Method:0xc000004680 Header:map[typ:JWT alg:HS256] Claims:0xc000191600 Signature: Valid:false}
+2019/01/19 20:14:56 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDAxNTZ9.ko52mk4WA6juxf2CV69PkGxIPelJ_ql8yVFWlTSYn4s
+2019/01/19 20:15:08 &{0xc0001b48a0 <nil>}
+2019/01/19 20:21:02 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDY0NjJ9.eSy2Xa-Tb7AHDLz8r7sjk_OSh9-WQG7YxDLi2yBr4cw
+2019/01/19 20:21:04 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDY0NjR9.6pjy9zOTxXKNaQV-FqfShHqFsnCPTZP08Oil1KJhpL4
+2019/01/19 20:21:19 &{Raw:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDY0NjR9.6pjy9zOTxXKNaQV-FqfShHqFsnCPTZP08Oil1KJhpL4 Method:0xc000060640 Header:map[alg:HS256 typ:JWT] Claims:0xc00019f980 Signature:6pjy9zOTxXKNaQV-FqfShHqFsnCPTZP08Oil1KJhpL4 Valid:true}
+2019/01/19 20:21:23 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDY0ODN9.lEg2N8uf2oCJvqYCU5959e5s6SNJSjyfBbNKwYZP3iM
+2019/01/19 20:29:45 {StandardClaims:0xc00017c120 obj:<nil>}
+2019/01/19 20:30:43 &{0xc000050180 <nil>}
+2019/01/19 20:30:56 &{0xc000050300 <nil>}
+2019/01/19 20:33:41 &{0xc000050c60 <nil>}
+2019/01/19 20:33:52 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDcyMzIsIk9iaiI6MTAwfQ.S7BREneOOnhxNcZClW-eG8GAusW_ezayeZckQ68ou5w
+2019/01/19 20:34:09 &{0xc000178420 100}
+2019/01/19 20:36:17 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDc5MDczNzcsIk9iaiI6eyJwYXNzd2QiOiIxMjM0NTYiLCJ1c2VybmFtZSI6ImhpbGxndW8ifX0.e5G6_fUOCpD9LJ8sClFvjcdDnkDpzpSxqleP4gzgN0o
